@@ -1,7 +1,7 @@
 
 # Plugin TimedPermission
 
-Selamat datang di **TimedPermission**! Plugin ini dirancang untuk PocketMine-MP dan memungkinkan Anda memberikan izin sementara kepada pemain menggunakan PurePerms.
+Selamat datang di **TimedPermission**! Plugin ini dirancang untuk PocketMine-MP dan memungkinkan Anda memberikan izin sementara kepada pemain.
 
 ## Fitur Utama
 
